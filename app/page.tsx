@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { createClient } from "edgedb";
 import e from "@/dbschema/edgeql-js";
-
+// d
 const client = createClient();
 
 export default async function Home() {
